@@ -6,6 +6,7 @@
   background-attachment: fixed;
   background-position: top center;
   background-repeat: no-repeat;
+  /* min-width: 576px; */
 } 
 html{
   height: 100%;
@@ -482,7 +483,7 @@ position: relative;
 .newsletter-bx {
   position: absolute;
   width: 70%;
-  height: 43%   ;
+  height: 36%   ;
   background: white;
   color: black;
   padding: 85px 50px;
@@ -498,11 +499,11 @@ position: relative;
 }
 .email-bx {
   padding: 6px;
-  border-radius: 10px;
   border: 2px solid;
   border-radius: 20px;
   display: flex;
   align-items: center;
+  /* width: 100%; */
 }
 .email-bx::after {
   content: "";
@@ -525,7 +526,7 @@ position: relative;
 }
 .email-bx button {
   background:linear-gradient( to right, rgb(73, 113, 134) , rgb(107, 46, 107)) ;
-  padding: 20px 65px;
+  padding: 15px 40px;
   color: #fff;
   font-weight: 500;
   letter-spacing: 0.5px;
@@ -575,6 +576,14 @@ position: relative;
     }
     .email-bx button {
       padding: 15px 2px;
+    }
+    .newsletter-bx {
+      height: 30%;
+      padding: 50px 30px;
+      margin-top: -95px;
+    }
+    .rightpartfooter p{
+      font-size: 12px ;
     }
 
 }
@@ -628,6 +637,14 @@ position: relative;
     }
     .email-bx button {
       padding: 15px 2px;
+    }
+    .rightpartfooter p{
+      font-size: 12px ;
+    }
+    .newsletter-bx {
+      height: 37%;
+      padding: 50px 50px;
+      margin-top: -100px;
     }
 }
 
@@ -686,7 +703,9 @@ position: relative;
     .email-bx button {
       padding: 15px 2px;
     }
-    .newsletter-bx{
-      height: 50%;
+    .newsletter-bx {
+      height: 37%;
+      padding: 50px 50px;
+      margin-top: -100px;
     }
 } 

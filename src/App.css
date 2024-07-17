@@ -425,7 +425,7 @@ margin-bottom: 10px;
 .textbox1{
   margin-top: 5%;
   padding: 20px 10px;
-  padding-right: 90px;
+  padding-right: 200px;
   background:linear-gradient( to right, rgb(73, 113, 134) , rgb(107, 46, 107)) ;
   border: 1px solid whitesmoke;
   border-radius: 10px;
@@ -674,13 +674,7 @@ position: relative;
   }
   .textbox1{
     margin-top: 5%;
-    padding: 20px 0px;
-    background:linear-gradient( to right, rgb(73, 113, 134) , rgb(107, 46, 107)) ;
-    border: 1px solid whitesmoke;
-    border-radius: 10px;
-    font-size: 17px;
-    font-weight: bold;
-    color: whitesmoke;
+    padding: 20px  10px;
     }
     .footersec{
       width: 100%;
@@ -698,13 +692,13 @@ position: relative;
       margin-top: 0%;
     }
     .rightpartfooter p{
-      font-size: 10px ;
+      font-size: 11px ;
     }
     .email-bx button {
       padding: 15px 2px;
     }
     .newsletter-bx {
-      height: 38%;
+      height: 45%;
       padding: 50px 50px;
       margin-top: -100px;
     }

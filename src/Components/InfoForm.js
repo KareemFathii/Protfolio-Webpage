@@ -43,7 +43,7 @@ const InfoForm =() => {
             <input  type="text" placeholder="Enter your Phone "      className="input1" onChange={(x)=>{
                  setData( {...data , phone : x.target.value})
             }} />
-            <textarea id="textbox" rows="6" cols="40" className="textbox1" placeholder="Enter your message ...." onChange={(x)=>{
+            <textarea id="textbox" rows="5" cols="30" className="textbox1" placeholder="Enter your message ...." onChange={(x)=>{
                 setData( {...data  , message : x.target.value})
             }}></textarea>
             <button type="submit" className="submitbtn" onClick={submit} >   Submit   </button>

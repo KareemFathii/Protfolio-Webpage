@@ -41,8 +41,6 @@ const Mainpage =() =>{
 
 
     return (
-
-        <div className="kok">
         <section id="home" className="container section1 ">
         <div className="row">
           <div className="col-md-6">
@@ -59,7 +57,7 @@ const Mainpage =() =>{
           </div>
         </div>
       </section>
-         </div>
+      
 
     )
 }

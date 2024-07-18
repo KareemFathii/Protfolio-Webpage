@@ -552,6 +552,12 @@ position: relative;
   .rightpart , .get-touch{
     text-align: center;
    }
+ .ufoimg{
+    width: 70%;
+    height: 70%;
+    margin-top: 0px;
+    margin-left: 0px;
+  }  
    .textbox1{
      margin-top: 5%;
      padding: 20px 10px;
@@ -631,12 +637,11 @@ position: relative;
     }
     .logofooter{
       margin-left: 10%;
-      margin-top: 40%;
-    
+      margin-top: 50%;    
     }
     .mediafooter{
       margin-left: 60%;
-      margin-top: 0%;
+      margin-top: 60%;
     }
     .email-bx button {
       padding: 15px 2px;

@@ -42,7 +42,7 @@ const Mainpage =() =>{
 
     return (
         <section id="home" className="section1 ">
-        <div className="row">
+        {/* <div className="row"> */}
           <div className="col-md-6">
             <div className="title1div">
             <span className="title1"> Welcome in my protfolio </span>
@@ -55,7 +55,7 @@ const Mainpage =() =>{
           <div className="col-md-6 rightpart">
           <img className="ufoimg" src={ufoImage} alt="UFO" />
           </div>
-        </div>
+{/*</div> */}
       </section>
       
 

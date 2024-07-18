@@ -1,13 +1,13 @@
-/*  body{
+ body{
   
     overflow-x: hidden;
     background-image: url('../src/images/Purple Galaxy Background 4k.jpeg');;
   background-size: cover;
   background-attachment: fixed;
   background-position: top center;
-  background-repeat: no-repeat;}  */
+  background-repeat: no-repeat;} 
 html{
-  width :100%;
+  width: 100% ;
   height: 100%;
   scroll-behavior: smooth;
   scroll-padding-top: 75px;
@@ -267,7 +267,9 @@ nav.navbar.active{
   --bs-gutter-x: 0 !important;
   --bs-gutter-y: 0 !important;
   padding: 0px !important;
-
+}
+.container {
+  --bs-gutter-x: 0 !important;
 }
 .row.no-gutters {
   --bs-gutter-x: 0;
@@ -496,7 +498,6 @@ position: relative;
 .newsletter-bx h3 {
   font-weight: 700;
   letter-spacing: 0.5px;
-  margin-top: -35px;
 }
 .email-bx {
   padding: 6px;

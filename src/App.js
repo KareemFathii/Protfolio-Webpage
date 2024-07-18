@@ -16,7 +16,7 @@ function App() {
        <Skills/>
       <Projects />
       <InfoForm />
-      <Newsletter/>
+    {/* <Newsletter/>*/}
     {/* <Footer /> */}
     </div>
   );

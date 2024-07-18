@@ -268,8 +268,12 @@ nav.navbar.active{
   --bs-gutter-y: 0 !important;
   padding: 0px !important;
 }
-.container {
+.container{
   --bs-gutter-x: 0 !important;
+}
+.container.no-gutters {
+  --bs-gutter-x: 0 !important;
+  padding: 0px !important;
 }
 .row.no-gutters {
   --bs-gutter-x: 0;

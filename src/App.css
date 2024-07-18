@@ -202,8 +202,8 @@ nav.navbar.active{
   position: relative;
 }
 .ufoimg{
-  width: 450px;
-  height:450px;
+  width: 70%;
+  height:70%;
   margin-top: 50px;
   margin-left: 150px;
   animation: updown 3s linear infinite;
@@ -266,18 +266,6 @@ nav.navbar.active{
   margin: 0px !important;
   --bs-gutter-x: 0 !important;
   --bs-gutter-y: 0 !important;
-  padding: 0px !important;
-}
-.container{
-  --bs-gutter-x: 0 !important;
-}
-.container.no-gutters {
-  --bs-gutter-x: 0 !important;
-  padding: 0px !important;
-}
-.row.no-gutters {
-  --bs-gutter-x: 0;
-  --bs-gutter-y: 0;
 }
 .sec3part1 h2{
   font-size: 42px;
@@ -608,8 +596,8 @@ position: relative;
     width: 100%;
   }
   .ufoimg{
-    width: 400px;
-    height: 400px;
+    width: 70%;
+    height: 70%;
     margin-top: 0px;
     margin-left: 0px;
   }  
@@ -670,7 +658,8 @@ position: relative;
     margin-bottom: 30px;
   }
   .ufoimg{
-    width: 400px;
+    width: 400
+    px;
     height: 400px;
     margin-top: 0px;
     margin-left: 0px;

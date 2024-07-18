@@ -265,6 +265,7 @@ nav.navbar.active{
   margin: 0px !important;
   --bs-gutter-x: 0 !important;
   --bs-gutter-y: 0 !important;
+  padding: 0px !important;
 
 }
 .row.no-gutters {
@@ -687,7 +688,7 @@ position: relative;
     
     }
     .mediafooter{
-      margin-left: 60%;
+      margin-left: 57%;
       margin-top: 0%;
     }
     .rightpartfooter p{

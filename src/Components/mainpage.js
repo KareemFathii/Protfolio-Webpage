@@ -53,7 +53,7 @@ const Mainpage =() =>{
                
           </div>
           <div className="col-md-6 rightpart">
-    {/* <img className="ufoimg" src={ufoImage} alt="UFO" /> */}
+         <img className="ufoimg" src={ufoImage} alt="UFO" />
           </div>
            </div> 
       </section>

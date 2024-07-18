@@ -17,7 +17,7 @@ function App() {
       <Projects />
       <InfoForm />
       <Newsletter/>
-      <Footer />
+    {/* <Footer /> */}
     </div>
   );
 }

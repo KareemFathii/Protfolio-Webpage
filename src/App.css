@@ -552,12 +552,6 @@ position: relative;
   .rightpart , .get-touch{
     text-align: center;
    }
- .ufoimg{
-    width: 70%;
-    height: 70%;
-    margin-top: 0px;
-    margin-left: 0px;
-  }  
    .textbox1{
      margin-top: 5%;
      padding: 20px 10px;
@@ -578,7 +572,7 @@ position: relative;
       padding: 15px 2px;
     }
     .newsletter-bx {
-      height: 30%;
+      height: 36%;
       padding: 50px 30px;
       margin-top: -95px;
     }
@@ -637,11 +631,12 @@ position: relative;
     }
     .logofooter{
       margin-left: 10%;
-      margin-top: 50%;    
+      margin-top: 40%;
+    
     }
     .mediafooter{
       margin-left: 60%;
-      margin-top: 60%;
+      margin-top: 0%;
     }
     .email-bx button {
       padding: 15px 2px;
@@ -650,7 +645,7 @@ position: relative;
       font-size: 12px ;
     }
     .newsletter-bx {
-      height: 41%;
+      height: 39%;
       padding: 50px 50px;
       margin-top: -100px;
     }
